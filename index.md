@@ -11,7 +11,7 @@ I'm interested in a range of topics, mostly and currently in the intersection of
 
 ----
 Thanks the support of my dearest love, I'm able to pursue my dream in the field of physics and computer science exempt of future worries.
-![Thanks the support of my dearest love](/assets/img/yzz.jpg)
+![Thanks the support of my dearest love](./assets/img/yzz.jpg)
 
 [LEE Ching Hua]: https://www.physics.nus.edu.sg/faculty/lee-ching-hua/
 [Kenji Kawaguchi]: https://ml.comp.nus.edu.sg/kawaguchi
