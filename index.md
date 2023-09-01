@@ -1,8 +1,8 @@
 ---
-title: Profile
-layout: Profile
+title: Home
+layout: Home
 ---
 
-# Just a test
+Just a test
 
 another test
