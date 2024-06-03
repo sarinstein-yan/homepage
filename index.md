@@ -16,8 +16,8 @@ To be updated soon.
 
 ----
 
-I am grateful for the unwavering support of my dearest love, whose encouragement has empowered me to chase my dreams in physics and computer science, unburdened by the anxieties of the future.
-![Thanks the support of my dearest love](./assets/img/yzz.jpg)
+<!-- I am grateful for the unwavering support of my dearest love, whose encouragement has empowered me to chase my dreams in physics and computer science, unburdened by the anxieties of the future.
+![Thanks the support of my dearest love](./assets/img/yzz.jpg) -->
 
 [LEE Ching Hua]: https://www.physics.nus.edu.sg/faculty/lee-ching-hua/
 [Kenji Kawaguchi]: https://ml.comp.nus.edu.sg/kawaguchi
